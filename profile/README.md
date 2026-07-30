@@ -1,11 +1,12 @@
-# CompoSeq
+# CompōSeq (kuhm-POH-seek)
 
 **Composable foundations for genomic data.**
 
-CompoSeq is a collaborative initiative among maintainers of open-source genomics
-and machine-learning libraries. We're building a shared, high-performance data
-substrate that makes genomic data operate natively within the modern analytics
-and ML ecosystems: Apache Arrow, DataFusion, Polars, DuckDB, PyTorch, and more.
+[CompoSeq](https://composeq.dev) is a collaborative initiative among maintainers 
+of open-source genomics and machine-learning libraries. We're building a shared,
+high-performance data substrate that makes genomic data operate natively within 
+the modern analytics and ML ecosystems: Apache Arrow, DataFusion, Polars, DuckDB, 
+PyTorch, and more.
 
 The goal is to make genomic workflows **declarative, streaming, out-of-core, and agent-ready**.
 
@@ -34,9 +35,9 @@ its home organization):
 
 ## Get involved
 
-- 🌐 Website: [composeq.dev](https://composeq.dev)
-- 💬 Questions & ideas: open an issue on any of our projects, or email **hello@composeq.dev**
-- 🗺️ Roadmap: published at [composeq.dev](https://composeq.dev) *(coming soon)*
+- 🗺️ Review the [Roadmap](https://github.com/composeq/.github/blob/main/ROADMAP.md)
+- 💬 Questions & ideas? Open an issue on any of our projects, start a [discussion](https://github.com/composeq/.github/discussions) or email **hello@composeq.dev**
+
 
 ## Community
 
